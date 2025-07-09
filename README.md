@@ -83,7 +83,7 @@ The app will open in your browser. Use the sidebar to navigate between features.
 
 ## Using Blackbox AI Agents in VS Code
 
-Code Genie also use Blackbox AI agent directly in Visual Studio Code for code completion, chat, and code generation.
+Code Genie also use Blackbox AI agent for maintaining history directly in Visual Studio Code for code completion, chat, and code generation.
 
 ### Steps:
 1. **Install the Blackbox AI VS Code Extension:**
